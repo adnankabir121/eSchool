@@ -1,0 +1,209 @@
+/* Extra Small devices (landscape phones, 350px and up) */
+@media (min-width: 350px) {
+    .header-area{
+        margin-top: 20px;
+    }
+    .banner-text{
+        margin-bottom:50px;
+    }
+    .collapse.show {
+        padding: 30px 20px 30px 20px;
+        background: #c2e6e6;
+    }
+    .single-features{
+        margin-bottom: 20px;
+    }
+    .footer-top-text{
+        margin-bottom: 30px;
+    }
+    .footer-list{
+        margin-top: 30px;
+    }
+    .testimonial-img{
+        margin-bottom: 50px;
+    }
+    .single-member{
+        margin-bottom: 30px;
+    }
+    .testimonial-text p{
+        text-align:center;
+    }
+}
+/* Extra Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .header-area{
+        margin-top: 20px;
+    }
+    .banner-text{
+        margin-bottom:50px;
+    }
+    .collapse.show {
+        padding: 30px 20px 30px 20px;
+        background: #c2e6e6;
+    }
+    .single-features{
+        margin-bottom: 30px;
+    }
+    .testimonial-img{
+        margin-bottom: 50px;
+    }
+    .footer-top-text{
+        margin-bottom: 30px;
+    }
+    .footer-list{
+        margin-top: 30px;
+    }
+    .single-member{
+        margin-bottom: 30px;
+    }
+    .testimonial-text p{
+        text-align:center;
+    }
+}
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .header-area{
+        margin-top: 20px;
+    }
+    #menu ul li a{
+        margin:10px 0;
+    }
+    .collapse.show .btn{
+        margin-top:15px;
+    }
+    .navbar-nav {
+        margin: 0;
+    }
+    span.ready-to-learn{
+        font-size:16px;
+        margin-bottom: 10px;
+    }
+    .banner-text{
+        margin-bottom:0;
+    }
+    .banner-text h1{
+        font-size:36px;
+        margin-bottom: 25px;
+    }
+    .banner-text p{
+        font-size:14px;
+        margin-bottom: 24px;
+        line-height:24px;
+    }
+    .banner-text .btn{
+        padding: 11px 26px;
+        font-size:13px;
+    }
+    .single-features {
+        margin-bottom: 0;
+    }
+    .single-course{
+        margin-bottom: 20px;
+    }
+    .testimonial-img{
+        margin-bottom: 50px;
+    }
+    .footer-top-text{
+        margin-bottom: 30px;
+    }
+    .footer-list{
+        margin-top: 30px;
+    }
+    .testimonial-text p{
+        text-align:center;
+    }
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    span.ready-to-learn{
+        font-size:18px;
+        margin-bottom: 10px;
+    }
+    .banner-text{
+        margin-bottom:0
+    }
+    .banner-text h1{
+        font-size:46px;
+        margin-bottom: 30px;
+    }
+    .banner-text p{
+        font-size:16px;
+        margin-bottom: 30px;
+        line-height:28px;
+    }
+    .banner-text .btn{
+        font-size:16px;
+        padding: 11px 32px;
+    }
+    .single-features {
+        margin-bottom: 0;
+    }
+    .single-features h2{
+        font-size:18px;
+    }
+    .single-features span{
+        font-size:14px;
+        margin-top: 15px;
+        color: rgb(133, 133, 133);
+    }
+    .single-course{
+        margin-bottom: 0px;
+    }
+    .testimonial-img{
+        margin-bottom: 0px;
+    }
+    .footer-list{
+        margin-top: 0;
+    }
+    .testimonial-text p{
+        text-align:left;
+    }
+
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    span.ready-to-learn{
+        font-size:18px;
+        margin-bottom: 10px;
+    }
+    .banner-text{
+        margin-bottom:0
+    }
+    .banner-text h1{
+        font-size:46px;
+        margin-bottom: 30px;
+    }
+    .banner-text p{
+        font-size:16px;
+        margin-bottom: 30px;
+        line-height:28px;
+    }
+    .banner-text .btn{
+        font-size:16px;
+        padding: 11px 32px;
+    }
+    .single-features h2{
+        font-size:22px;
+    }
+    .single-features span{
+        font-size:15px;
+    }
+    .single-features {
+        margin-bottom: 0px;
+    }
+    .single-course{
+        margin-bottom: 0px;
+    }
+    .testimonial-img{
+        margin-bottom: 0px;
+    }
+    .footer-list{
+        margin-top: 0;
+    }
+    .testimonial-text p{
+        text-align:left;
+    }
+}
